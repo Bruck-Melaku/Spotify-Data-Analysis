@@ -34,7 +34,7 @@ CREATE TABLE spotify (
 );
 ```
 
-## 15 Practice Questions
+## 13 Practice Questions
 
 ### Easy Level
 1. Retrieve the names of all tracks that have more than 1 billion streams.
